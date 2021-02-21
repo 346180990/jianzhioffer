@@ -1,0 +1,11 @@
+{
+  "name": "jianzhioffer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node JZOffer04.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
